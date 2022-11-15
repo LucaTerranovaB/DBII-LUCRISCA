@@ -1,0 +1,19 @@
+[{
+    "id_area_empleado" : "1",
+    "tipo_empleado" : "Administrativo"
+},
+
+{
+    "id_area_empleado" : "2",
+    "tipo_empleado" : "Conductor"
+},
+
+{
+    "id_area_empleado" : "3",
+    "tipo_empleado" : "Guia"
+},
+
+{
+    "id_area_empleado" : "4",
+    "tipo_empleado" : "Seguridad"
+}]

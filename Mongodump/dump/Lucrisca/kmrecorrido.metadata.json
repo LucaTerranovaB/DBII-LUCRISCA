@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"Lucrisca.kmrecorrido"}],"uuid":"16920ac11ecf4e47b5213cb036395388"}

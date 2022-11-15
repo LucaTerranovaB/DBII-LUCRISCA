@@ -1,0 +1,23 @@
+[{
+    "id_descuento" : 1,
+    "descuento" : "50%",   
+    "descripcion" : "2x1"
+},
+
+{
+    "id_descuento" : 2,
+    "descuento" : "66%",
+    "descripcion" : "3x2"
+},
+
+{
+    "id_descuento" : 3,
+    "descuento" : "20%",
+    "descripcion" : "Mendocino"
+},
+
+{
+    "id_descuento" :4,
+    "descuento" : "30%",
+    "descripcion" : "Jubilados"
+}]

@@ -1,0 +1,25 @@
+[{
+    "nro_descuento" : 1,
+    "id_descuento" : 1,
+    "imagen" : [],   
+    "descripcion" : "Promo exclusiva 2x1"
+},
+
+{
+    "nro_descuento" : 2,
+    "id_descuento" : 2,
+    "imagen" : [],   
+    "descripcion" : "Oferta insuperable 3x2"
+},
+{
+    "nro_descuento" : 3,
+    "id_descuento" : 3,
+    "imagen" : [],   
+    "descripcion" : "Para los locales hay descuentos!!"
+},
+{
+    "nro_descuento" : 4,
+    "id_descuento" : 4,
+    "imagen" : [],   
+    "descripcion" : "Ofrecemos promociones para jubilados"
+}]
